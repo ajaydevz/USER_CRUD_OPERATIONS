@@ -1,6 +1,6 @@
 # crud-operations
 
-Welcome to the Admin CRUD Operation project! This application allows you to perform Create, Read, Update, and Delete operations on user accounts with various security features.
+Welcome to the user management(admin-crud) Operation project! This application allows you to perform Create, Read, Update, and Delete operations on user accounts with various security features.
 
 ## Features
 
